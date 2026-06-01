@@ -11,11 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/dewanshikarnawat/Hackkerank_30_Days_of_Code?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/dewanshikarnawat/Hackkerank_30_Days_of_Code?style=social" alt="Forks"/>
-</p>
-
 </div>
 
 ---
