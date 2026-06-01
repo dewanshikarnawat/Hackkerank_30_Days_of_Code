@@ -33,7 +33,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | Detail | Info |
 |--------|------|
 | 🏆 Platform | [HackerRank – 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) |
-| 💻 Primary Language | Python |
+| 💻 Primary Language | C++20 |
 | 📅 Duration | 30 Days |
 | 🎯 Difficulty | Beginner → Intermediate |
 | 🔄 Updated | Regularly |
