@@ -1,0 +1,22 @@
+//Problem: Read a line of input from the user, print "Hello, World." on the first line, and then print the input string on the second line.
+//Category: Basics, Input/Output, Strings
+//Language used: C++20
+//Pattern: Easy
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    string s;
+    getline(cin, s);
+
+    cout << "Hello, World." << endl;
+    cout << s << endl;
+
+    return 0;
+}
