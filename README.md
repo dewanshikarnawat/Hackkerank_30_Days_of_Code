@@ -40,7 +40,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | Day | Problem | Concepts Covered | Solution |
 |-----|---------|-----------------|----------|
 | **Day 00** | Hello, World! | Printing, I/O | [View →](./Day%200%3A%20Hello%2C%20World.) |
-| **Day 01** | Data Types | Integers, Doubles, Strings | 🔜 Coming Soon |
+| **Day 01** | Data Types | Integers, Doubles, Strings | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d5a5b0cda51eb4f34b1cd85a4805fc4e709d6bc0) |
 | **Day 02** | Operators | Arithmetic, Modulo | 🔜 Coming Soon |
 | **Day 03** | Intro to Conditional Statements | if-else | 🔜 Coming Soon |
 | **Day 04** | Class vs. Instance | OOP Basics | 🔜 Coming Soon |
