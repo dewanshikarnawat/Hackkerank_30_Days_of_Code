@@ -1,0 +1,33 @@
+//Problem: Read an integer, double, and string, perform addition with predefined values, concatenate strings, and print the results.
+//Category: Basics, Data Types, Input/Output, Strings
+//Language used: C++20
+//Pattern: Easy
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int i = 4;
+    double d = 4.0;
+    string s = "HackerRank ";
+
+    int x;
+    double y;
+    string str;
+
+    cin >> x;
+    cin >> y;
+    cin.ignore();
+
+    getline(cin, str);
+
+    cout << i + x << endl;
+    printf("%.1f\n", d + y);
+    cout << s + str << endl;
+    return 0;
+}
