@@ -128,12 +128,12 @@ python "Day 0: Hello, World."
 
 ```
 Day  0  ████████████████████  ✅ Complete
-Day  1  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
-Day  2  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
+Day  1  ████████████████████  ✅ Complete
+Day  2  ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [█░░░░░░░░░░░░░░░░░░░]  3% (1/30 Days)
+Overall  [███░░░░░░░░░░░░░░░░░]  3% (3/30 Days)
 ```
 
 ---
