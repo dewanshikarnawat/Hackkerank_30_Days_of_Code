@@ -43,7 +43,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 01** | Data Types | Integers, Doubles, Strings | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/5b1f57c5fa7669fa3b60da5ddcd35a30e395453a) |
 | **Day 02** | Operators | Arithmetic, Modulo | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/dcf92f8d36922d3e0fd756b618fdd09307ccb850) |
 | **Day 03** | Intro to Conditional Statements | if-else | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/dd96beed0b55122c487fb4f1e174706fc7281684) |
-| **Day 04** | Class vs. Instance | OOP Basics | 🔜 Coming Soon |
+| **Day 04** | Class vs. Instance | OOP Basics | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/5ed659b6671a35088931ec58b3e284a0dead0a67) |
 | **Day 05** | Loops | for, while | 🔜 Coming Soon |
 | **Day 06** | Let's Review | Strings | 🔜 Coming Soon |
 | **Day 07** | Arrays | Lists | 🔜 Coming Soon |
