@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-3%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-4%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -42,7 +42,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 00** | Hello, World! | Printing, I/O | [View →](./Day%200%3A%20Hello%2C%20World.) |
 | **Day 01** | Data Types | Integers, Doubles, Strings | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/5b1f57c5fa7669fa3b60da5ddcd35a30e395453a) |
 | **Day 02** | Operators | Arithmetic, Modulo | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/dcf92f8d36922d3e0fd756b618fdd09307ccb850) |
-| **Day 03** | Intro to Conditional Statements | if-else | 🔜 Coming Soon |
+| **Day 03** | Intro to Conditional Statements | if-else | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/dd96beed0b55122c487fb4f1e174706fc7281684) |
 | **Day 04** | Class vs. Instance | OOP Basics | 🔜 Coming Soon |
 | **Day 05** | Loops | for, while | 🔜 Coming Soon |
 | **Day 06** | Let's Review | Strings | 🔜 Coming Soon |
@@ -130,10 +130,11 @@ python "Day 0: Hello, World."
 Day  0  ████████████████████  ✅ Complete
 Day  1  ████████████████████  ✅ Complete
 Day  2  ████████████████████  ✅ Complete
+Day  3  ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [███░░░░░░░░░░░░░░░░░]  3% (3/30 Days)
+Overall  [████░░░░░░░░░░░░░░░░]  4% (4/30 Days)
 ```
 
 ---
