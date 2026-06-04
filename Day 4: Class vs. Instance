@@ -1,0 +1,66 @@
+//Problem: Create a Person class that validates age, classifies it as young/teenager/old, and updates age over time using methods.
+//Topic: Object-Oriented Programming (OOP) – Classes, Objects, Constructor, and Member Functions
+//Pattern: Easy
+//Language Used: C++20
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+class Person {
+public:
+    int age;
+
+    // Constructor
+    Person(int initialAge) {
+        if (initialAge < 0) {
+            age = 0;
+            cout << "Age is not valid, setting age to 0." << endl;
+        } else {
+            age = initialAge;
+        }
+    }
+
+    // Check age category
+    void amIOld() {
+        if (age < 13) {
+            cout << "You are young." << endl;
+        } 
+        else if (age >= 13 && age < 18) {
+            cout << "You are a teenager." << endl;
+        } 
+        else {
+            cout << "You are old." << endl;
+        }
+    }
+
+    // Increment age by 1 year
+    void yearPasses() {
+        age++;
+    }
+};
+
+int main() {
+    int T;
+    cin >> T;
+
+    for (int i = 0; i < T; i++) {
+        int age;
+        cin >> age;
+
+        Person p(age);
+
+        p.amIOld();
+
+        for (int j = 0; j < 3; j++) {
+            p.yearPasses();
+        }
+
+        p.amIOld();
+        cout << endl;
+    } 
+    return 0;
+}
