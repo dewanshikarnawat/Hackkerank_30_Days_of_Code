@@ -1,0 +1,44 @@
+//Problem: You are given an integer N, and you must print whether it is "Weird" or "Not Weird" based on simple conditions.
+//Topic: Control Flow / Conditional Statements (If-Else Logic)
+//Pattern: Easy
+//Language Used: C++20
+
+#include <bits/stdc++.h>
+using namespace std;
+
+string ltrim(const string &str) {
+    auto it = find_if_not(str.begin(), str.end(),
+                          [](unsigned char c) { return isspace(c); });
+    return string(it, str.end());
+}
+
+string rtrim(const string &str) {
+    auto it = find_if_not(str.rbegin(), str.rend(),
+                          [](unsigned char c) { return isspace(c); }).base();
+    return string(str.begin(), it);
+}
+
+int main()
+{
+    string N_temp;
+    getline(cin, N_temp);
+
+    int N = stoi(ltrim(rtrim(N_temp)));
+
+    if (N % 2 != 0) {
+        cout << "Weird";
+    }
+    else {
+        if (N >= 2 && N <= 5) {
+            cout << "Not Weird";
+        }
+        else if (N >= 6 && N <= 20) {
+            cout << "Weird";
+        }
+        else {
+            cout << "Not Weird";
+        }
+    }
+
+    return 0;
+}
