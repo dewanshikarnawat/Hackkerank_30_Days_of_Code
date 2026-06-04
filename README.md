@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-4%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-5%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -131,10 +131,11 @@ Day  0  ████████████████████  ✅ Comple
 Day  1  ████████████████████  ✅ Complete
 Day  2  ████████████████████  ✅ Complete
 Day  3  ████████████████████  ✅ Complete
+Day  4  ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [████░░░░░░░░░░░░░░░░]  4% (4/30 Days)
+Overall  [█████░░░░░░░░░░░░░░░]  5% (5/30 Days)
 ```
 
 ---
