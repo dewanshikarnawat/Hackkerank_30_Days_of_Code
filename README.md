@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-6%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-7%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -45,7 +45,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 03** | Intro to Conditional Statements | if-else | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/dd96beed0b55122c487fb4f1e174706fc7281684) |
 | **Day 04** | Class vs. Instance | OOP Basics | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/5ed659b6671a35088931ec58b3e284a0dead0a67) |
 | **Day 05** | Loops | for, while | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/250130eafd7763dfc71b69c2ef78bce16af9fbb2) |
-| **Day 06** | Let's Review | Strings | 🔜 Coming Soon |
+| **Day 06** | Let's Review | Strings | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/9318ca536f1c763b4af532d118aaf36b14abf704) |
 | **Day 07** | Arrays | Lists | 🔜 Coming Soon |
 | **Day 08** | Dictionaries and Maps | Hash Maps | 🔜 Coming Soon |
 | **Day 09** | Recursion 3 | Factorial, Recursion | 🔜 Coming Soon |
@@ -133,10 +133,11 @@ Day  2  ████████████████████  ✅ Comple
 Day  3  ████████████████████  ✅ Complete
 Day  4  ████████████████████  ✅ Complete
 Day  5  ████████████████████  ✅ Complete
+Day  6  ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [██████░░░░░░░░░░░░░░]  6% (6/30 Days)
+Overall  [███████░░░░░░░░░░░░░]  7% (7/30 Days)
 ```
 
 ---
