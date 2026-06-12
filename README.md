@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-11%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-12%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -50,7 +50,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 08** | Dictionaries and Maps | Hash Maps | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/94a6b0547f76657a52202779df9cd12108a28af7) |
 | **Day 09** | Recursion 3 | Factorial, Recursion | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/44baab0b098d09ab4170eacfe5d1c772c3500ea3) |
 | **Day 10** | Binary Numbers | Bitwise | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/c01a46f5ecc80bc889bbc7aa7135615def9a7d92) |
-| **Day 11** | 2D Arrays | Matrix Traversal | 🔜 Coming Soon |
+| **Day 11** | 2D Arrays | Matrix Traversal | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/49783272c259b84c93bfe0cd1d390271799fe75f) |
 | **Day 12** | Inheritance | OOP | 🔜 Coming Soon |
 | **Day 13** | Abstract Classes | OOP | 🔜 Coming Soon |
 | **Day 14** | Scope | Variable Scope | 🔜 Coming Soon |
@@ -138,10 +138,11 @@ Day  7  ████████████████████  ✅ Comple
 Day  8  ████████████████████  ✅ Complete
 Day  9  ████████████████████  ✅ Complete
 Day  10  ████████████████████  ✅ Complete
+Day  11  ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [███████████░░░░░░░░░]  11% (11/30 Days)
+Overall  [████████████░░░░░░░░]  12% (12/30 Days)
 ```
 
 ---
