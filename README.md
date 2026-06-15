@@ -137,12 +137,12 @@ Day  6  ████████████████████  ✅ Comple
 Day  7  ████████████████████  ✅ Complete
 Day  8  ████████████████████  ✅ Complete
 Day  9  ████████████████████  ✅ Complete
-Day  10  ████████████████████  ✅ Complete
-Day  11  ████████████████████  ✅ Complete
-Day  12  ████████████████████  ✅ Complete
-Day  13  ████████████████████  ✅ Complete
-Day  14  ████████████████████  ✅ Complete
-Day  15  ████████████████████  ✅ Complete
+Day  10 ████████████████████  ✅ Complete
+Day  11 ████████████████████  ✅ Complete
+Day  12 ████████████████████  ✅ Complete
+Day  13 ████████████████████  ✅ Complete
+Day  14 ████████████████████  ✅ Complete
+Day  15 ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
