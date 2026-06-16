@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-16%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-17%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -55,7 +55,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 13** | Abstract Classes | OOP | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/ab95dab526bf52c8a483ecba18f3e37a2189a78c) |
 | **Day 14** | Scope | Variable Scope | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/0c3e189413bc32978bcd9a5592d8a236c67a8909) |
 | **Day 15** | Linked List | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/cab2fb35f739a745021b752ebb65a0e2bd780d7d) |
-| **Day 16** | Exceptions — String to Integer | Error Handling | 🔜 Coming Soon |
+| **Day 16** | Exceptions — String to Integer | Error Handling | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/3979a5dcf4f581c4db968e2fc2a9d5707a5c60fa) |
 | **Day 17** | More Exceptions | Try/Catch | 🔜 Coming Soon |
 | **Day 18** | Queues and Stacks | Data Structures | 🔜 Coming Soon |
 | **Day 19** | Interfaces | OOP | 🔜 Coming Soon |
@@ -143,10 +143,11 @@ Day  12 ████████████████████  ✅ Comple
 Day  13 ████████████████████  ✅ Complete
 Day  14 ████████████████████  ✅ Complete
 Day  15 ████████████████████  ✅ Complete
+Day  16 ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [███████████████░░░░░]  16% (16/30 Days)
+Overall  [████████████████░░░░]  17% (17/30 Days)
 ```
 
 ---
