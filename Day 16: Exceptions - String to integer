@@ -1,0 +1,23 @@
+//Problem: Exceptions - String to integer
+//Topic: C++ Exception Handling
+//Pattern: Easy
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+
+int main()
+{
+    string S;
+    getline(cin, S);
+    try {
+        int num = stoi(S);
+        cout << num;
+    }
+    catch (exception &e) {
+        cout << "Bad String";
+    }
+    return 0;
+}
