@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-18%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-19%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -57,7 +57,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 15** | Linked List | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/cab2fb35f739a745021b752ebb65a0e2bd780d7d) |
 | **Day 16** | Exceptions — String to Integer | Error Handling | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/3979a5dcf4f581c4db968e2fc2a9d5707a5c60fa) |
 | **Day 17** | More Exceptions | Try/Catch | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/3495082279fbcd4ad70cbe36cc4fd8abc238a2e2) |
-| **Day 18** | Queues and Stacks | Data Structures | 🔜 Coming Soon |
+| **Day 18** | Queues and Stacks | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/f22f4a8a2087ab354629563a9f5f8f34e24dcd90) |
 | **Day 19** | Interfaces | OOP | 🔜 Coming Soon |
 | **Day 20** | Sorting | Bubble Sort | 🔜 Coming Soon |
 | **Day 21** | Generics | Type System | 🔜 Coming Soon |
@@ -145,10 +145,11 @@ Day  14 ████████████████████  ✅ Comple
 Day  15 ████████████████████  ✅ Complete
 Day  16 ████████████████████  ✅ Complete
 Day  17 ████████████████████  ✅ Complete
+Day  18 ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [████████████████░░░░]  18% (18/30 Days)
+Overall  [████████████████░░░░]  19% (19/30 Days)
 ```
 
 ---
