@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-19%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-26%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -59,7 +59,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 17** | More Exceptions | Try/Catch | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/3495082279fbcd4ad70cbe36cc4fd8abc238a2e2) |
 | **Day 18** | Queues and Stacks | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/f22f4a8a2087ab354629563a9f5f8f34e24dcd90) |
 | **Day 19** | Interfaces | OOP | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d2997c4bc14d449be087e8cb15db09f78cb8ec90) |
-| **Day 20** | Sorting | Bubble Sort | [View →]() |
+| **Day 20** | Sorting | Bubble Sort | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/f2812b2253ee612c519fe470694c782c307c0df6) |
 | **Day 21** | Generics | Type System | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/0c0aaae1ae7936a9bdbbcf6a6f524d93df8d9a4f) |
 | **Day 22** | Binary Search Trees | Trees | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/e7f2d7f4b2a1d5e941e51e4ca4e6ff441f7fef3b) |
 | **Day 23** | BST Level-Order Traversal | Trees, BFS | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d088a12de969fff2bb0faf0e33d95bc96599277b) |
@@ -147,10 +147,16 @@ Day  16 ████████████████████  ✅ Comple
 Day  17 ████████████████████  ✅ Complete
 Day  18 ████████████████████  ✅ Complete
 Day  19 ████████████████████  ✅ Complete
+Day  20 ████████████████████  ✅ Complete
+Day  21 ████████████████████  ✅ Complete
+Day  22 ████████████████████  ✅ Complete
+Day  23 ████████████████████  ✅ Complete
+Day  24 ████████████████████  ✅ Complete
+Day  25 ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [████████████████░░░░]  20% (20/30 Days)
+Overall  [██████████████████░░]  26% (26/30 Days)
 ```
 
 ---
