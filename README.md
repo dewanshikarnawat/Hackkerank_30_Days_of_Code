@@ -59,12 +59,12 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 17** | More Exceptions | Try/Catch | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/3495082279fbcd4ad70cbe36cc4fd8abc238a2e2) |
 | **Day 18** | Queues and Stacks | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/f22f4a8a2087ab354629563a9f5f8f34e24dcd90) |
 | **Day 19** | Interfaces | OOP | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d2997c4bc14d449be087e8cb15db09f78cb8ec90) |
-| **Day 20** | Sorting | Bubble Sort | 🔜 Coming Soon |
-| **Day 21** | Generics | Type System | 🔜 Coming Soon |
-| **Day 22** | Binary Search Trees | Trees | 🔜 Coming Soon |
-| **Day 23** | BST Level-Order Traversal | Trees, BFS | 🔜 Coming Soon |
-| **Day 24** | More Linked Lists | Data Structures | 🔜 Coming Soon |
-| **Day 25** | Running Time and Complexity | Big-O | 🔜 Coming Soon |
+| **Day 20** | Sorting | Bubble Sort | [View →]() |
+| **Day 21** | Generics | Type System | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/0c0aaae1ae7936a9bdbbcf6a6f524d93df8d9a4f) |
+| **Day 22** | Binary Search Trees | Trees | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/e7f2d7f4b2a1d5e941e51e4ca4e6ff441f7fef3b) |
+| **Day 23** | BST Level-Order Traversal | Trees, BFS | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d088a12de969fff2bb0faf0e33d95bc96599277b) |
+| **Day 24** | More Linked Lists | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d5b8e0d542bf15a7e0b4139180ded845183818ae) |
+| **Day 25** | Running Time and Complexity | Big-O | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/6c678647c0a14a8fefdef2e51694fc81ce49a96b) |
 | **Day 26** | Nested Logic | Conditionals | 🔜 Coming Soon |
 | **Day 27** | Testing | Unit Testing | 🔜 Coming Soon |
 | **Day 28** | RegEx, Patterns, and Intro to Databases | Regex | 🔜 Coming Soon |
