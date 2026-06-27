@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-26%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-28%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -65,8 +65,8 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 23** | BST Level-Order Traversal | Trees, BFS | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d088a12de969fff2bb0faf0e33d95bc96599277b) |
 | **Day 24** | More Linked Lists | Data Structures | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/d5b8e0d542bf15a7e0b4139180ded845183818ae) |
 | **Day 25** | Running Time and Complexity | Big-O | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/6c678647c0a14a8fefdef2e51694fc81ce49a96b) |
-| **Day 26** | Nested Logic | Conditionals | 🔜 Coming Soon |
-| **Day 27** | Testing | Unit Testing | 🔜 Coming Soon |
+| **Day 26** | Nested Logic | Conditionals | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/7a87e6c5fa92b6481f7af88f6555c294df7fe409) |
+| **Day 27** | Testing | Unit Testing | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/b9916431810d22959eebdad5c7abd47d9b4dcf6b) |
 | **Day 28** | RegEx, Patterns, and Intro to Databases | Regex | 🔜 Coming Soon |
 | **Day 29** | Bitwise AND | Bitwise Ops | 🔜 Coming Soon |
 
@@ -153,10 +153,12 @@ Day  22 ████████████████████  ✅ Comple
 Day  23 ████████████████████  ✅ Complete
 Day  24 ████████████████████  ✅ Complete
 Day  25 ████████████████████  ✅ Complete
+Day  26 ████████████████████  ✅ Complete
+Day  27 ████████████████████  ✅ Complete
 ...
 Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
 
-Overall  [██████████████████░░]  26% (26/30 Days)
+Overall  [███████████████████░]  28% (28/30 Days)
 ```
 
 ---
