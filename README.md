@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   <img src="https://img.shields.io/badge/Language-C++20-3776AB?style=for-the-badge&logo=c++20&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Progress-29%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-30%2F30-FF6B35?style=for-the-badge" alt="Progress"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -68,7 +68,7 @@ This repository contains my **clean, well-commented solutions** to every problem
 | **Day 26** | Nested Logic | Conditionals | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/7a87e6c5fa92b6481f7af88f6555c294df7fe409) |
 | **Day 27** | Testing | Unit Testing | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/b9916431810d22959eebdad5c7abd47d9b4dcf6b) |
 | **Day 28** | RegEx, Patterns, and Intro to Databases | Regex | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/2fab1dad300d5a428c84a2e5ed808ce1d0b16ef9) |
-| **Day 29** | Bitwise AND | Bitwise Ops | 🔜 Coming Soon |
+| **Day 29** | Bitwise AND | Bitwise Ops | [View →](https://github.com/dewanshikarnawat/Hackkerank_30_Days_of_Code/commit/be77e82d5af595aab7f68f25ab5adcc40fc88d1b) |
 
 ---
 
@@ -156,9 +156,9 @@ Day  25 ████████████████████  ✅ Comple
 Day  26 ████████████████████  ✅ Complete
 Day  27 ████████████████████  ✅ Complete
 Day  28 ████████████████████  ✅ Complete
-Day 29  ░░░░░░░░░░░░░░░░░░░░  🔜 Upcoming
+Day 29  ████████████████████  ✅ Complete
 
-Overall  [███████████████████░]  29% (29/30 Days)
+Overall  [████████████████████] (30/30 Days)
 ```
 
 ---
