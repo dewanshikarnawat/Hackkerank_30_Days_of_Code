@@ -12,7 +12,7 @@
 </p>
 
 </div>
-🏆 HackerRank Badge
+## 🏆 HackerRank Gold Badge
 <img width="1135" height="859" alt="Screenshot (812)" src="https://github.com/user-attachments/assets/214a9cc4-5d7f-4fd1-9b00-1b253d9fd7e1" />
 
 ---
