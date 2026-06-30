@@ -13,8 +13,8 @@
 
 </div>
 🏆 HackerRank Badge
+<img width="1135" height="859" alt="Screenshot (812)" src="https://github.com/user-attachments/assets/214a9cc4-5d7f-4fd1-9b00-1b253d9fd7e1" />
 
-https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg
 ---
 
 ## 🚀 About This Repository
